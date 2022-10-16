@@ -1,2 +1,2 @@
-# react_hook_tutorital
+# react_hook_tutorial
 Tutorial for React hooks
